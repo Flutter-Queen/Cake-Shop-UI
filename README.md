@@ -1,16 +1,32 @@
-# cake_shop_app
+# Cake Shop App UI
 
-A new Flutter project.
 
-## Getting Started
+## Preview 👇
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/107878396/200057389-516bdef3-d6ed-44be-b0b9-592e9d096f48.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Built with Amazing Tools
+- [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
+- ClipPath
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Written Blog ✍
+
+https://medium.com/@flutterqueen
+
+
+## 🐛 Bugs/Requests
+If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
+
+
+
+## 😍	Show Some Support 😍
+
+If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^
+
+- [Instagram](https://www.instagram.com/_flutter.queen/)
+- [Medium](https://medium.com/@flutterqueen)
+- [Facebook](https://www.facebook.com/profile.php?id=100082330156711)
+- [Twitter](https://twitter.com/Queen33322?t=7Zsa-nTHDQhdkRya_kz-7g&s=09)
